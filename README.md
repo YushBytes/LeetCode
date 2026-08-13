@@ -9,6 +9,7 @@
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YushBytes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YushBytes/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
