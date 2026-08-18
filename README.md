@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/YushBytes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/YushBytes/LeetCode/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/YushBytes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
