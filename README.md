@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/YushBytes/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/YushBytes/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/YushBytes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/YushBytes/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -55,6 +56,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/YushBytes/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/YushBytes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
