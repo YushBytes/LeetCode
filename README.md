@@ -11,6 +11,7 @@
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YushBytes/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/YushBytes/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/YushBytes/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/YushBytes/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [3875-construct-uniform-parity-array-i](https://github.com/YushBytes/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
