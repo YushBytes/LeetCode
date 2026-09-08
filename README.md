@@ -11,6 +11,7 @@
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YushBytes/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3870-count-commas-in-range](https://github.com/YushBytes/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/YushBytes/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
