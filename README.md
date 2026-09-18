@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/YushBytes/LeetCode/tree/master/0836-rectangle-overlap) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/YushBytes/LeetCode/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/YushBytes/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
