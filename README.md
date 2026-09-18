@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/YushBytes/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YushBytes/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YushBytes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/YushBytes/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -24,6 +25,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/YushBytes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/YushBytes/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
@@ -53,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YushBytes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YushBytes/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
@@ -73,10 +76,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 ## Geometry
 |  |
 | ------- |
@@ -89,4 +94,8 @@
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/YushBytes/LeetCode/tree/master/0707-design-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
