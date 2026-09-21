@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/YushBytes/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -75,11 +76,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 ## Geometry
@@ -98,4 +101,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
