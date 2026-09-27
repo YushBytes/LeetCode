@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/YushBytes/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/YushBytes/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YushBytes/LeetCode/tree/master/0344-reverse-string) |
 ## Prefix Sum
