@@ -20,5 +20,6 @@ public:
 
 
     return vec;
+    vec.reserve(n);
     }
 };
