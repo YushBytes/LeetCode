@@ -2,8 +2,9 @@ class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector<string> vec;
+        vec.reserve(n);
         for(int i=1;i<=n;i++){
-            if(i%3==0&&i%5==0){
+            if(i%15==0){
                 vec.push_back("FizzBuzz");
             }
             else if(i%5==0){
@@ -20,6 +21,6 @@ public:
 
 
     return vec;
-    vec.reserve(n);
+   
     }
 };
