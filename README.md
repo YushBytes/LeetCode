@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/YushBytes/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YushBytes/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/YushBytes/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YushBytes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/YushBytes/LeetCode/tree/master/0836-rectangle-overlap) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/YushBytes/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/YushBytes/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/YushBytes/LeetCode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YushBytes/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/YushBytes/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
