@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YushBytes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YushBytes/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YushBytes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/YushBytes/LeetCode/tree/master/1137-n-th-tribonacci-number) |
