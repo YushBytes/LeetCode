@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YushBytes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YushBytes/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
