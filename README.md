@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/YushBytes/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/YushBytes/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/YushBytes/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/YushBytes/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/YushBytes/LeetCode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/YushBytes/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/YushBytes/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
