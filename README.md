@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YushBytes/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YushBytes/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YushBytes/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YushBytes/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/YushBytes/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YushBytes/LeetCode/tree/master/0344-reverse-string) |
 ## Prefix Sum
@@ -101,6 +103,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
@@ -139,4 +142,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YushBytes/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
