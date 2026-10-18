@@ -39,6 +39,7 @@
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/YushBytes/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/YushBytes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YushBytes/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/YushBytes/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@
 | [0001-two-sum](https://github.com/YushBytes/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/YushBytes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YushBytes/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YushBytes/LeetCode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/YushBytes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
