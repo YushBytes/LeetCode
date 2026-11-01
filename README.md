@@ -46,6 +46,7 @@
 | [0219-contains-duplicate-ii](https://github.com/YushBytes/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YushBytes/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/YushBytes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/YushBytes/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/YushBytes/LeetCode/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/YushBytes/LeetCode/tree/master/0877-stone-game) |
@@ -123,6 +124,7 @@
 | [0169-majority-element](https://github.com/YushBytes/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YushBytes/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YushBytes/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/YushBytes/LeetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/YushBytes/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YushBytes/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
